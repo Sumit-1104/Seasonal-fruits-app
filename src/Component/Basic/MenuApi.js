@@ -1,0 +1,66 @@
+const Menu = [
+    {
+      id: 1,
+      name: "Mango",
+      category: "Summer",
+      img: "xyz",
+      desc: "xyz",
+    },
+    {
+      id: 2,
+      name: "Grapes",
+      category: "Summer",
+      img: "xyz",
+      desc: "xyz",
+    },
+    {
+      id: 3,
+      name: "Orange",
+      category: "Winter",
+      img: "xyz",
+      desc: "xyz",
+    },
+    {
+      id: 4,
+      name: "lemons",
+      category: "Winter",
+      img: "xyz",
+      desc: "xyz",
+    },
+    {
+      id: 5,
+      name: "Cherries",
+      category: "Rainy",
+      img: "xyz",
+      desc: "xyz",
+    },
+    {
+      id: 6,
+      name: "Jamun",
+      category: "Rainy",
+      img: "xyz",
+      desc: "xyz",
+    },
+    {
+      id: 7,
+      name: "Kiwi",
+      category: "Autumn",
+      img: "xyz",
+      desc: "xyz",
+    },
+    {
+      id: 8,
+      name: "Bananas",
+      category: "Autumn",
+      img: "xyz",
+      desc: "xyz",
+    },
+    {
+      id: 9,
+      name: "Bananas",
+      category: "Sumit",
+      img: "xyz",
+      desc: "xyz",
+    },
+  ];
+  export default Menu;
